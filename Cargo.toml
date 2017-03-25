@@ -1,0 +1,8 @@
+[package]
+name = "rubyup"
+version = "0.1.0"
+authors = ["William Roe <git@wjlr.org.uk>"]
+
+[dependencies]
+binary_shim = { path = "../binary_shim" }
+clap = "*"
